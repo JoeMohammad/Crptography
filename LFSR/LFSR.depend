@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620161027 source:c:\users\lenovo\documents\lfsr\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<bitset>
+	<sstream>
+
